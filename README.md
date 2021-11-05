@@ -1,6 +1,6 @@
 # PYTHON FUNDAMENTALS
 
-## INSTALLATIOn
+## INSTALLATION
 
 To download the latest version of **Python**, go to their official [Website](https://python.org/)
 
