@@ -4,6 +4,7 @@ import receivingInputsFromUser
 import typeConversion
 import addingTwoNumbers
 import stringManipulation
+import logicalOperators
 
 printing.printHelloWorld()
 declaringVariables.printTheVariables()
@@ -11,11 +12,7 @@ receivingInputsFromUser.receiveInputsFromUser()
 typeConversion.runTypeConversion()
 addingTwoNumbers.addingTwoNumbers()
 stringManipulation.runStringManipulation()
-
-
-
-
-
+logicalOperators.runLogicalOperator()
 
 # Arithmetic Operations
 
