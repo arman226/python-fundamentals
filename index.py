@@ -6,6 +6,7 @@ import lessons.addingTwoNumbers as addingTwoNumbers
 import lessons.receivingInputsFromUser as stringManipulation
 import lessons.logicalOperators as logicalOperators
 import lessons.conditionalStatements as conditions
+import lessons.whileLoops as whileLoops
 
 # printing.printHelloWorld()
 # declaringVariables.printTheVariables()
@@ -14,7 +15,8 @@ import lessons.conditionalStatements as conditions
 # addingTwoNumbers.addingTwoNumbers()
 # stringManipulation.runStringManipulation()
 # logicalOperators.runLogicalOperator()
-conditions.getTemperature()
+# conditions.getTemperature()
+whileLoops.runWhileLoop()
 
 # Arithmetic Operations
 
