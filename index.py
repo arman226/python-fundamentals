@@ -8,6 +8,8 @@ import lessons.logicalOperators as logicalOperators
 import lessons.conditionalStatements as conditions
 import lessons.whileLoops as whileLoops
 import lessons.list as list
+import lessons.forLoop as forLoop
+import lessons.rangeFunction as rangeFun
 
 # printing.printHelloWorld()
 # declaringVariables.printTheVariables()
@@ -18,16 +20,19 @@ import lessons.list as list
 # logicalOperators.runLogicalOperator()
 # conditions.getTemperature()
 # whileLoops.runWhileLoop()
-list.getListOfPeople()
-list.getPersonByIndex(0)
-list.getSetOfPersons(0,2)
-list.appendItemToList("Arman")
-print(list.getTotalNumberOfItems())
-list.insertItemToIndex(3, "Fourth Person")
-isExisting = list.doesItemExist("Arman")
-print(f"Arman exists?{isExisting}")
-list.removeItemFromList("Arman")
-list.flushOutValuesFromTheList()
+# list.getListOfPeople()
+# list.getPersonByIndex(0)
+# list.getSetOfPersons(0,2)
+# list.appendItemToList("Arman")
+# print(list.getTotalNumberOfItems())
+# list.insertItemToIndex(3, "Fourth Person")
+# isExisting = list.doesItemExist("Arman")
+# print(f"Arman exists?{isExisting}")
+# list.removeItemFromList("Arman")
+# list.flushOutValuesFromTheList()
+# forLoop.iterateOverAllItems()
+rangeFun.getListOfNumbers()
+rangeFun.createRange(9,99,1)
 
 
 # Arithmetic Operations
