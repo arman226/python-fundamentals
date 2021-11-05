@@ -1,10 +1,10 @@
-import printing
-import declaringVariables
-import receivingInputsFromUser
-import typeConversion
-import addingTwoNumbers
-import stringManipulation
-import logicalOperators
+import lessons.printing as printing
+import lessons.declaringVariables as declaringVariables
+import lessons.receivingInputsFromUser as receivingInputsFromUser
+import lessons.typeConversion as typeConversion
+import lessons.addingTwoNumbers as addingTwoNumbers
+import lessons.receivingInputsFromUser as stringManipulation
+import lessons.logicalOperators as logicalOperators
 
 printing.printHelloWorld()
 declaringVariables.printTheVariables()
