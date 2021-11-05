@@ -43,3 +43,19 @@ print(f"The course in lowercase: {course_in_lowercase}")
 print(f"The course in uppercase: {course_in_uppercase}")
 print(f"The word course replaced with {course_replaced_with_lesson}")
 print(f"The course has the word Python in it: {is_the_word_Python_existing_in_the_course}")
+
+
+# Arithmetic Operations
+
+addition = 1+1
+subtraction = 1-1
+multiplication = 1*1
+division = 1/1
+division_whole_number = 1//1
+remainder = 1 % 1
+exponential = 1 ** 3
+
+# Augmented Assignment Operator
+x= 10
+x+=3 # instead of x= x+3
+
