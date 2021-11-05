@@ -7,6 +7,7 @@ import lessons.receivingInputsFromUser as stringManipulation
 import lessons.logicalOperators as logicalOperators
 import lessons.conditionalStatements as conditions
 import lessons.whileLoops as whileLoops
+import lessons.list as list
 
 # printing.printHelloWorld()
 # declaringVariables.printTheVariables()
@@ -16,7 +17,10 @@ import lessons.whileLoops as whileLoops
 # stringManipulation.runStringManipulation()
 # logicalOperators.runLogicalOperator()
 # conditions.getTemperature()
-whileLoops.runWhileLoop()
+# whileLoops.runWhileLoop()
+list.getListOfPeople()
+list.getPersonByIndex(0)
+list.getSetOfPersons(0,2)
 
 # Arithmetic Operations
 
