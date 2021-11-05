@@ -5,14 +5,16 @@ import lessons.typeConversion as typeConversion
 import lessons.addingTwoNumbers as addingTwoNumbers
 import lessons.receivingInputsFromUser as stringManipulation
 import lessons.logicalOperators as logicalOperators
+import lessons.conditionalStatements as conditions
 
-printing.printHelloWorld()
-declaringVariables.printTheVariables()
-receivingInputsFromUser.receiveInputsFromUser()
-typeConversion.runTypeConversion()
-addingTwoNumbers.addingTwoNumbers()
-stringManipulation.runStringManipulation()
-logicalOperators.runLogicalOperator()
+# printing.printHelloWorld()
+# declaringVariables.printTheVariables()
+# receivingInputsFromUser.receiveInputsFromUser()
+# typeConversion.runTypeConversion()
+# addingTwoNumbers.addingTwoNumbers()
+# stringManipulation.runStringManipulation()
+# logicalOperators.runLogicalOperator()
+conditions.getTemperature()
 
 # Arithmetic Operations
 
