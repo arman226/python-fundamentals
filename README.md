@@ -1,1 +1,5 @@
 # PYTHON FUNDAMENTALS
+
+## RUNNING PYTHON SCRIPT
+
+run `python3 file_name`
