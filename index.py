@@ -21,6 +21,14 @@ import lessons.list as list
 list.getListOfPeople()
 list.getPersonByIndex(0)
 list.getSetOfPersons(0,2)
+list.appendItemToList("Arman")
+print(list.getTotalNumberOfItems())
+list.insertItemToIndex(3, "Fourth Person")
+isExisting = list.doesItemExist("Arman")
+print(f"Arman exists?{isExisting}")
+list.removeItemFromList("Arman")
+list.flushOutValuesFromTheList()
+
 
 # Arithmetic Operations
 
